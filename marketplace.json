@@ -1,0 +1,107 @@
+{
+    "Development": 
+    {
+      "Web Development": { "Skills": ["JavaScript", "React", "CSS", "Angular", "Node.JS", "HTML5", "PHP", "Django"] },
+      "Data Science": { "Skills": ["Python", "Machine Learning", "Deep Learning", "Data Analysis", "Artificial Intelligence", "R (programming language)", "Statistics", "Natural Language Processing", "ChatGPT"] },
+      "Mobile Development": { "Skills": ["Google Flutter", "Android Development", "iOS Development", "Swift", "React Native", "Dart (programming language)", "Kotlin", "SwiftUI"] },
+      "Progamming Languages": { "Skills": ["Python", "Java", "C#", "React", "C++", "JavaScript", "C (programming language)", "Go (programming language)", "Spring Framework"] },
+      "Game Development": { "Skills": ["Unity", "Unreal Engine", "Game Development Fundamentals", "C#", "3D Game Development", "C++", "Unreal Engine Blueprints", "2D Game Development", "Virtual Reality"] },
+      "Database Design and Development": { "Skills": ["SQL", "MySQL", "Oracle SQL", "MongoDB", "Database Management", "Apache Kafka", "Oracle Certification", "SQL Server", "Database Programming"] },
+      "Software Testing": { "Skills": ["Selenium WebDriver", "Java", "Automation Testing", "Selenium", "Testing Framework", "API Testing", "Postman", "Quality Assurance", "REST Assured"] },
+      "Software Engineering": { "Skills": ["Data Structures", "Coding Interview", "Algorithms", "Kubernetes", "Certified Kubernetes", "Application Developer (CKAD)", "Microservices", "Software Architecture", "Python", "Apache Flow"] },
+      "Software Development Tools": { "Skills": ["Docker", "Git", "Kubernetes", "DevOps", "JIRA", "Jenkins", "Confluence", "Continuous Integration", "Node.JS"] },
+      "No-Code Development": { "Skills": ["Bubble Visual Programming", "Elementor", "Artificial Intelligence", "Wix", "Web Design", "WordPress", "Airtable", "Microsoft PowerApps", "Software Development"] }
+    },
+    "Business": 
+    {
+        "Entrepreneurship": { "Skills": ["Business Fundamentals", "Entrepreneurship Fundamentals", "Freelancing", "Startup", "Business Strategy", "Business Plan", "Online Business", "Blogging", "Home Business"] },
+        "Communication": { "Skills": ["Communication Skills", "Presentation Skills", "Public Speaking", "Writing", "Business Writing", "Fiction Writing", "Email Etiquette", "Technical Writing", "Storytelling"] },
+        "Management": { "Skills": ["Product Management", "Leadership", "Management Skills", "BPM Business Process Management", "ISO 9001", "Project Management", "Business Strategy", "Manager Training", "PMP"] },
+        "Sales": { "Skills": ["Sales Skills", "B2B Sales", "Linkedln", "Lead Generation", "Business Development", "Presentation Skills", "Customer Success Management", "Cold Email", "Customer Service"] },
+        "Business Strategy": { "Skills": ["Digital Marketing", "Management Consulting", "TOGAF 9 Foundation", "TOGAF 9 Certified", "Business Model", "Digital Transformation", "Innovation", "OKR"] },
+        "Operations": { "Skills": ["Six Sigma", "Six Sigma Green Belt", "Supply Chain", "Six Sigma Yellow Belt", "Six Sigma Black Belt", "Quality Managememnt", "Logistics Management", "Lean", "Six Sigma White Belt"] },
+        "Project Management": { "Skills": ["PMP", "PMI PMBOK", "Scrum", "Agile", "CAPM Certified Associate in Project Management", "Professional Scrum Master (PSM)", "PMI-ACP", "Business Analysis"] },
+        "Business Law": { "Skills": ["GDPR", "Law", "Contract Law", "Medical Device Development", "Contract Management", "Data Protection", "Healthcare IT", "Goods and Services Tax"] },
+        "Business Analytics and Intelligence": { "Skills": ["Microsoft Power BI", "SQL", "Tableau", "Business Analysis", "Data Modeling", "Business Intelligence", "Blockchain", "MySQL", "Data Analysis"] },
+        "Human Resources": { "Skills": ["Recruiting", "HR Analytics", "Instructional Design", "Hiring", "IT Fundamentals", "Emotional Intelligence", "Corporate Learning and Development (L&D)", "Diversity and Inclusion"] },
+        "Industry": { "Skills": ["Trucking", "Piping", "EPLAN Electric P8", "Chemical Engineering", "Salesforce", "Oil and Gas Industry", "Electrical Engineering", "Life Coach Training", "Freight Broker"] },
+        "E-Commerce": { "Skills": ["Amazon FBA", "Dropshipping", "Shopify", "Shopify Dropshipping", "Selling on Amazon", "Etsy", "Passive Income", "Online Business"] },
+        "Media": { "Skills": ["Audiobook Creation", "Podcasting", "Journalism", "Screenwriting", "Writing", "Amazon Kindle Direct Publishing (KDP)", "After Effects Motion Graphics", "Scrivener"] },
+        "Real Estate": { "Skills": ["Real Estate Investing", "Airbnb Hosting", "Mortgage", "Notary Business", "Construction", "Financial Modeling", "Real Estate Marketing", "Property Management"] },
+        "Other Business": { "Skills": ["QuickBooks Online", "Grant Writing", "Transcription", "Data Entry Skills", "Freelance Writing", "PowerPoint", "Binance", "Bitcoin", "Fundraising"] }
+    },
+    "Finance and Accounting": 
+    {
+        "Accounting and Bookkeeping": { "Skills": ["Accounting", "Bookkeeping", "Financial Accounting", "Finance Fundamentals", "QuickBooks Online", "IFRS", "QuickBooks", "Financial Statement", "SAP FICO"] },
+        "Compliance": { "Skills": ["Anti-Money Laundering", "CAMS Certification", "Risk Management", "Sarbanes-Oxley (SOX)", "IFRS", "Internal Auditing", "Fraud Analytics", "Trade and Commerce", "Accounting"] },
+        "Cryptocurrency and Blockchain": { "Skills": ["Cryptocurrency", "NFT (Non-Fungible Tokens)", "Bitcoin", "Blockchain", "Metaverse", "Binance", "Day Trading", "Personal Finance", "Bitcoin Trading"] },
+        "Economics": { "Skills": ["Microeconomics", "Macroeconomics", "Stata", "Econometrics", "Finance Fundamentals", "Global Economics", "Entrepreneurship Fundamentals", "Regression Analysis"] },
+        "Finance": { "Skills": ["Personal Finance", "Investment Banking", "Finance Fundamentals", "CFA", "Banking", "Financial Management", "Financial Analysis", "Corporate Finance", "Company Valuation"] },
+        "Finance Cert and Exam Prep": { "Skills": ["CFA", "Certified Management Accountant (CMA)", "Financial Management", "ANBIMA Certification", "ACCA", "Quantitative Finance", "Financial Markets", "Stock Trading", "Fixed Income Securities"] },
+        "Financial Modeling and Analysis": { "Skills": ["Financial Analysis", "Financial Modeling", "Excel", "Finance Fundamentals", "Investment Banking", "Python", "Accounting", "Investing", "Financial Accounting"] },
+        "Investing and Trading": { "Skills": ["Stock Trading", "Investing", "Technical Analysis", "Forex", "Algorithmic Trading", "Day Trading", "Options Trading", "Financial Markets", "Cryptocurrency"] },
+        "Money Management Tools": { "Skills": ["QuickBooks Online", "QuickBooks", "SAP FICO", "QuickBooks Pro", "Excel", "Xero", "Excel Analytics", "SAP", "Financial Modeling"] },
+        "Taxes": { "Skills": ["Tax Preparation", "Accounting", "Goods and Services Tax", "Value Added Tax (VAT)", "Home Business", "Financial Accounting", "SAT", "Entrepreneurship Fundamentals", "SAP"] },
+        "Other Finance and Accounting": { "Skills": ["Technical Analysis", "PowerPoint", "NFT (Non-Fungible Tokens)", "Passive Income", "Financial Planning", "Personal Finance", "Coaching", "Stock Trading", "Credit Repair"] }
+    },
+    "IT and Software": 
+    {
+        "IT Certifications": { "Skills": ["AWS Certification", "Microsoft Certification", "AWS Certified Solutions Architect - Associate", "AWS Certified Cloud Practitioner", "CompTIA A+", "Amazon AWS", "Cisco CCNA", "AWS Certified Developer - Associate", "Microsoft AZ-900"] },
+        "Network and Security": { "Skills": ["Ethical Hacking", "Cyber Security", "Network Security", "Penetration Testing", "IT Networking Fundamentals", "CompTIA Network+", "Cisco CCNA", "Kubernetes", "CompTIA Security+"] },
+        "Hardware": { "Skills": ["Arduino", "PLC", "Electronics", "Embedded Systems", "Microcontroller", "Raspberry Pi", "Embedded C", "FPGA", "KiCad"] },
+        "Operating Systems and Servers": { "Skills": ["Linux", "Linux Administration", "Windows Server", "Shell Scripting", "Active Directory", "PowerShell", "Linux Command Line", "macOS", "VMware Vsphere"] },
+        "Other IT and Software": { "Skills": ["Python", "DevOps", "NFT (Non-Fungible Tokens)", "Docker", "Kubernetes", "Algorithms", "SQL", "Ansible", "Java"] }
+    },
+    "Office Productivity": 
+    {
+        "Microsoft": { "Skills": ["Excel", "Excel VBA", "Excel Formulas and Functions", "Microsoft Office", "Data Analysis", "PowerPoint", "Microsoft Power BI", "Pivot Tables", "Microsoft Word"] },
+        "Apple": { "Skills": ["Mac Basics", "iMovie", "Numbers For Mac", "macOS", "Apple Keynote", "Mac Pages", "Apple Products Basics"] },
+        "Google": { "Skills": ["Google Sheets", "Google Workspace (G Suite)", "Google Looker", "Google Data Studio", "Google Drive", "Gmail Productivity", "Google Docs", "Google AppSheet", "Virtual Assistant"] },
+        "SAP": { "Skills": ["SAP ABAP", "SAP S/4HANA", "SAP SD", "SAP MM", "SAP HCM", "SAP Certified Application Associate - SAP S/4HANA", "SAP FICO", "SAP Financial Accounting"] },
+        "Oracle": { "Skills": ["Oracle SQL", "Oracle Database", "PL/SQL", "Database Administration", "Oracle Certification", "Oracle Primavera", "Oracle E-Business Suite", "SQL", "Oracle Data Integrator"] }
+    },
+    "Design": 
+    {
+        "Web Design": { "Skills": ["WordPress", "CSS", "Mobile App Design", "HTML", "User Interface", "Photoshop", "HTML5", "Adobe XD"] },
+        "Graphic Design and Illustration": { "Skills": ["Graphic Design", "Photoshop", "Adobe Illustrator", "Drawing", "Digital Painting", "Canva", "InDesign", "Character Design", "Procreate Digital Illustration App"] },
+        "Design Tools": { "Skills": ["Photoshop", "Procreate Digital Illustration App", "After Effects", "Adobe Premiere", "AutoCAD", "Adobe Illustrator", "Digital Art", "SOLIDWORKS", "Photoshop Retouching"] },
+        "User Experience Design": { "Skills": ["User Interface", "Adobe XD", "Figma", "Design Thinking", "Product Design", "Web Design", "Mobile App Design", "Gamification"] },
+        "Game Design": { "Skills": ["Unreal Engine", "Pixel Art", "Unity", "VFX Visual Effects", "Game Development Fundamentals", "Blender", "Digital Painting", "Drawing"] },
+        "3D and Animation": { "Skills": ["Blender", "3D Modeling", "After Effects", "Motion Graphics", "3D Animation", "zBrush", "Fusion 360", "Animation", "Character Design"] },
+        "Fashion Design": { "Skills": ["Fashion", "Adobe Illustrator", "Sewing", "Jewelry Design", "Jewelry Making", "Photoshop", "Textiles", "Marvelous Designer"] },
+        "Architectural Design": { "Skills": ["AutoCAD", "Revit", "Blender", "SketchUp", "LEED", "ARCHICAD", "3D Animation", "Landscape Architecture"] },
+        "Interior Design": { "Skills": ["SketchUp", "Color Theory", "Lighting Design", "HVAC", "Electrical Engineering", "Feng Shui", "Minimalist Lifestyle", "Botany"] },
+        "Other Design": { "Skills": ["Character Design", "Electronics", "Drawing", "PCB Design", "Comic Book Creation", "Digital Painting", "Perspective Drawing", "Geometric Dimensioning and Tolerancing (GD&T)", "System Design Interview"] }
+    },
+    "Marketing": 
+    {
+        "Digital Marketing": { "Skills": ["Social Media Marketing", "Marketing Strategy", "Internet Marketing", "Copywriting", "Google Analytics", "Email Marketing", "YouTube Marketing", "Podcasting"] },
+        "Search Engine Optimization": { "Skills": ["SEO", "WordPress", "Keyword Research", "Google My Business - Business Profile", "Shopify", "SEO Audit", "Link Building", "Local SEO", "Content Writing"] },
+        "Social Media Marketing": { "Skills": ["Instagram Marketing", "Facebook Ads", "Facebook Marketing", "PPC Advertising", "TikTok Marketing", "Social Media Management", "LinkedIn", "Instagram Photography"] },
+        "Branding": { "Skills": ["Business Branding", "YouTube Audience Growth", "YouTube Marketing", "Personal Branding", "Brand Management", "Marketing Strategy", "Customer Service", "Graphic Design", "Business Strategy"] },
+        "Marketing Fundamentals": { "Skills": ["Copywriting", "Marketing Strategy", "Marketing Plan", "Marketing Management", "Marketing Psychology", "Marketing Analytics", "Event Planning", "Coaching and Consulting Business", "Neuromarketing"] },
+        "Marketing Analytics and Automation": { "Skills": ["Google Analytics", "Google Analytics Individual Qualification (IQ)", "Marketing Analytics", "Data Analysis", "Google Tag Manager", "SQL", "Marketo", "Marketing Strategy", "HubSpot"] },
+        "Public Relations": { "Skills": ["Communication Skills", "Media Training", "Business Communication", "Podcasting", "Writing", "Startup", "Public Speaking", "Presentation Skills"] },
+        "Paid Advertising": { "Skills": ["Google Ads (AdWords)", "Google Ads (AdWords) Certification", "Facebook Ads", "PPC Advertising", "Retargeting", "YouTube Marketing", "Programmatic Advertising", "Email Marketing", "Mailchimp"] },
+        "Video and Mobile Marketing": { "Skills": ["YouTube Marketing", "YouTube Audience Growth", "Video Creation", "PowerPoint", "Video Marketing", "Video Editing", "App Marketing", "App Store Optimization", "Video Production"] },
+        "Content Marketing": { "Skills": ["Copywriting", "Content Writing", "Blogging", "Writing", "Content Creation", "Business Writing", "Technical Writing", "Freelancing"] },
+        "Growth Hacking": { "Skills": ["Digital Marketing", "Marketing Strategy", "Facebook Ads", "App Marketing", "Passive Income", "SEO", "B2B Sales", "YouTube Audience Growth"] },
+        "Affiliate Marketing": { "Skills": ["ClickBank", "SEO", "Amazon Affiliate Marketing", "CPA Marketing", "Push Notification", "AdSense", "WordPress", "Online Business"] },
+        "Product Marketing": { "Skills": ["Marketing Plan", "SaaS", "Product Management", "Facebook Ads", "Marketing Management", "Self-Publishing", "Amazon Kindle Direct Publishing (KDP)", "Voice-Over", "B2B Sales"] },
+        "Other Marketing": { "Skills": ["Copywriting", "Conversion Rate Optimization", "Event Planning", "NFT (Non-Fungible Tokens)", "Marketing Strategy", "YouTube Audience Growth", "Digital Marketing", "A/B Testing", "Customer Experience Management"] }
+    },
+    "Teaching and Academics": 
+    {
+        "Engineering": { "Skills": ["Electrical Engineering", "Civil Engineering", "Electronics", "Solar Energy", "Mechanical Engineering", "Robotics", "Aerospace Engineering", "Structural Engineering", "Automotive Engineering"] },
+        "Humanities": { "Skills": ["Philosophy", "Critical Thinking", "Art History", "Creative Writing", "Statistics", "English Literature", "History"] },
+        "Math": { "Skills": ["Calculus", "Statistics", "Linear Algebra", "Algebra", "Probability", "Discrete Math", "Trigonometry", "Geometry"] },
+        "Science": { "Skills": ["Physics", "Solar Energy", "Biology", "Orthodontics", "Chemistry", "Anatomy", "Research Paper Writing", "Physiology"] },
+        "Online Education": { "Skills": ["Online Course Creation", "Teaching Online", "Canva", "Online Business", "Instructional Design", "Passive Income", "Moodle", "Adobe Captivate", "Articulate Storyline"] },
+        "Social Science": { "Skills": ["Psychology", "Counseling", "Psychotherapy", "Criminology", "Economics", "Research Methods", "Critical Thinking", "CBT Cognitive Behavioral Therapy", "Forensic Science"] },
+        "Language Learning": { "Skills": ["English Language", "German Language", "Spanish Language", "English Grammar", "French Language", "English Conversation", "Japanese Language", "English Vocabulary", "Korean Language"] },
+        "Teacher Training": { "Skills": ["Train the Trainer", "Instructional Design", "Early Childhood Education", "Voice-Over", "Coaching", "ESL", "Health Coaching", "Life Coach Training"] },
+        "Test Prep": { "Skills": ["IELTS", "TOEFL", "PMP", "English Language", "Bookkeeping", "PMI PMBOK", "Math", "CAPM Certified Associate in Project Management", "GMAT"] },
+        "Other Teaching and Academics": { "Skills": ["Microsoft Word", "Proofreading", "Research Methods", "Academic Writing", "Research Paper Writing", "Punctuation", "Early Childhood Education", "Fiction Writing", "NVivo"] }
+      }
+  }
+  
