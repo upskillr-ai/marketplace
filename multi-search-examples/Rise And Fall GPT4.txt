@@ -1,0 +1,117 @@
+Input:
+
+links = [
+    "https://www.thehindubusinessline.com/on-campus/silicon-valley-bank-the-rise-and-fall/article66626897.ece",
+    "https://www.channelnewsasia.com/business/silicon-valley-bank-timeline-rise-and-fall-banking-sector-3345466",
+    "https://insightss.co/silicon-valley-bank-the-rise-and-fall/",
+    "https://www.linkedin.com/pulse/rise-fall-silicon-valley-bank-timeline-events-adarsh-keshri/",
+    "https://economictimes.indiatimes.com/tech/newsletters/ettech-unwrapped/the-collapse-of-silicon-valley-bank-and-its-impact-on-indian-startups/articleshow/98554339.cms?from=mdr",
+    "https://www.theguardian.com/business/2023/mar/17/why-silicon-valley-bank-collapsed-svb-fail"
+]  # The name of the collection to search for relevant articles
+
+query = "Rise and Fall of Silicon Valley Bank"  # The topic for which you want to create the article
+
+article_outline = [
+    "Preamble - covering what is Silicon Valley Bank",
+    "Silence before the storm - covering things that happened before the downfall of the bank",
+    "Resolution provided by Fed - cover the action taken by US federal reserve",
+    "Conclusion - focusing on how such things can be avoided"
+]
+
+======================================================
+Output:
+
+Preamble - covering what is Silicon Valley Bank (Under the Topic: Rise and Fall of Silicon Valley Bank)
+
+Silicon Valley Bank (SVB) is a high-profile financial institution that has been instrumental in shaping the innovation economy. Founded in 1983, SVB has 
+carved out a unique niche for itself, serving as a banking and financial services provider specifically tailored to the needs of the technology and 
+innovation sectors. Its clientele spans a broad spectrum, encompassing startups, venture capitalists, and private equity firms, all of whom have come to 
+rely on SVB's specialized services. These services range from customized financing solutions to investment advice and other business services, all designed to 
+support and foster growth within the fast-paced, high-stakes world of technology and innovation.
+
+SVB's rise to prominence is closely tied to the growth of Silicon Valley itself. As the region emerged as a global hub for technology and innovation, SVB 
+positioned itself as the go-to financial institution for the burgeoning tech industry. Its deep understanding of the unique needs and challenges of tech 
+startups, coupled with its willingness to take on the risks associated with such ventures, made it an invaluable partner for many of Silicon Valley's most 
+successful companies.
+
+However, SVB's fortunes have been closely tied to those of the tech industry, and the bank has experienced its share of ups and downs. Its history is marked 
+by periods of rapid growth and expansion, followed by periods of contraction and retrenchment. This cyclical pattern reflects the inherent volatility of the 
+tech industry, with its boom-and-bust cycles and constant churn of new ideas and companies.
+
+Despite these challenges, SVB has remained a key player in the tech industry, continuing to innovate and adapt to the changing landscape. Its ability to 
+evolve and stay relevant in a rapidly changing industry is a testament to its resilience and strategic acumen. However, the bank's future remains uncertain, 
+as it navigates the shifting sands of the tech industry and grapples with the challenges and opportunities presented by the rise of fintech and other disruptive 
+technologies.
+
+===================================
+
+Silence before the storm - covering things that happened before the downfall of the bank (Under the Topic: Rise and Fall of Silicon Valley Bank)
+
+In the years leading up to the downfall, Silicon Valley Bank (SVB) was riding high on the wave of technological innovation and venture capital investment. 
+The bank, founded in 1983, had positioned itself as the go-to financial institution for the tech industry, providing loans, banking services, and venture 
+capital to startups and established tech companies alike. Its unique business model, which focused on high-risk, high-reward tech companies, allowed it to grow 
+rapidly and amass over $200 billion in assets. 
+
+However, beneath the surface, there were signs of trouble brewing. The bank's reliance on venture capital funding and corporate deposits, rather than retail 
+deposits, made it vulnerable to market fluctuations. This was a risky strategy, as these sources of funding were less stable and more susceptible to sudden 
+withdrawals. In addition, the bank's heavy exposure to the tech sector meant that it was highly sensitive to any downturn in the industry. 
+
+In the years leading up to the bank's collapse, there were several warning signs. In 2021, the bank reported a significant drop in its venture capital 
+investments, which was a major source of its revenue. This was followed by a series of high-profile tech company bankruptcies, which resulted in significant 
+losses for the bank. 
+
+Furthermore, the bank's aggressive growth strategy also came under scrutiny. Critics argued that the bank was overextending itself, taking on too many risky 
+loans without sufficient capital to cover potential losses. Despite these warning signs, the bank continued its risky lending practices, fueling speculation 
+of a potential bubble in the tech sector.
+
+In 2022, the bank faced another blow when a major tech company, which was one of its largest clients, filed for bankruptcy. This event triggered a wave of 
+panic among the bank's investors and depositors, leading to a bank run. Despite efforts to reassure the public, the bank was unable to stem the tide of 
+withdrawals, leading to its eventual collapse in March 2023.
+
+In retrospect, the downfall of Silicon Valley Bank can be seen as a cautionary tale of the dangers of over-reliance on a single industry and the perils of 
+unchecked growth. Despite its initial success, the bank's failure to diversify its portfolio and its reckless lending practices ultimately led to its downfall.
+
+===================================
+
+Resolution provided by Fed - cover the action taken by US federal reserve (Under the Topic: Rise and Fall of Silicon Valley Bank)
+
+In the face of the impending collapse of Silicon Valley Bank (SVB), the US Federal Reserve took decisive action to prevent a major financial crisis. 
+Recognizing the bank's precarious position, with its assets barely covering its liabilities, the Federal Reserve, in conjunction with the Federal Deposit 
+Insurance Corporation (FDIC), created a new entity. This move was designed to protect the depositors and borrowers who were customers of SVB. Their accounts 
+and loans remained the same, but they were now under the umbrella of this new entity, Silicon Valley Bank, N.A. 
+
+This intervention by the Federal Reserve was a critical step in preventing the bank's collapse from triggering a wider financial crisis. It ensured that the 
+bank's customers, many of whom were involved in the tech sector, did not lose their deposits or have their loans called in. This action also helped to maintain 
+confidence in the banking sector at a time when it was under significant strain due to the economic contraction caused by the COVID-19 pandemic.
+
+However, the Federal Reserve's intervention also highlighted the severity of SVB's situation. The bank's rapid growth between 2020 and 2022, fueled by the 
+tech sector's inflated valuations and the Federal Reserve's low-interest-rate policy, had led to a disproportionate exposure to tech start-ups. This, coupled 
+with a lack of proper risk management and oversight, had left the bank vulnerable to a downturn in the tech sector.
+
+The Federal Reserve's action in the SVB case underscores the importance of robust risk management and oversight in the banking sector. It also highlights the 
+role of the Federal Reserve as a lender of last resort, stepping in to prevent bank failures from causing wider economic damage. While the intervention saved 
+SVB's customers from immediate losses, it also served as a stark reminder of the risks inherent in the banking sector, particularly for banks with a heavy 
+exposure to a single sector.
+
+===================================
+
+Conclusion - focusing on how such things can be avoided (Under the Topic: Rise and Fall of Silicon Valley Bank)
+
+To avoid a similar fate as Silicon Valley Bank, financial institutions must adopt a more balanced approach to their operations. Firstly, they should diversify 
+their customer base and not rely too heavily on a single sector or type of customer. In SVB's case, its over-reliance on the tech startup sector, which is 
+notoriously volatile, proved to be its downfall. Banks should aim to serve a broad range of customers across various industries to spread their risk.
+
+Secondly, banks should ensure they have a stable source of funding. SVB's heavy reliance on corporate and venture capital funding, instead of retail deposits, 
+left it vulnerable when these sources dried up. A more balanced funding mix, including a significant proportion of retail deposits, can provide a more stable 
+and reliable source of funding.
+
+Thirdly, banks should be cautious about lending to high-risk sectors. While such loans can be lucrative, they also come with a higher risk of default. Banks 
+should have robust risk management systems in place to assess and manage these risks effectively.
+
+Lastly, transparency and accountability are crucial. SVB's downfall was partly due to its lack of transparency and financial mismanagement. Banks should be 
+transparent with their stakeholders, comply with regulatory requirements, and foster a culture of accountability.
+
+In conclusion, the rise and fall of Silicon Valley Bank serves as a cautionary tale for other financial institutions. By adopting a more balanced approach 
+to their operations, diversifying their customer base, ensuring a stable source of funding, managing risks effectively, and maintaining transparency and 
+accountability, banks can avoid a similar fate.
+
